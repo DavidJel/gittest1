@@ -4,3 +4,4 @@
 // 20230718 1429 test modif un 
 // autre mtest de modif
 // modif de clone pour la VM
+// modif pour synchro
