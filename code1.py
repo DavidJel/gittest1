@@ -3,6 +3,8 @@
 // 20230718 1156 modif 1 - restaurée
 // 20230718 1429 test modif un 
 // autre mtest de modif
+// modif de clone pour la VM
+// modif pour synchro
 // hotfix
 // ok hotfix fini
 // une dernière petite
@@ -10,3 +12,5 @@
 // modif pour supprimer "modif quelconque"
 // modif pour reset 1
 // modif pour merge
+// double modif pour merge 1/2
+
